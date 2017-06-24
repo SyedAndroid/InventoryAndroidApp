@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <string name="empty_view_subtitle_text">Get started by adding a Product</string>
+    <string name="title">Enter the name of the product:</string>
+    <string name="quantity">Quantity:</string>
+    <string name="price">Price</string>
+    <string name="picture">Upload product picture:</string>
+    <string name="supplier_email">Enter supplier email:</string>
+
+    <string name="detail_title">Product Name:</string>
+    <string name="detail_quantity">Quantity:</string>
+    <string name="detail_price">Price:</string>
+    <string name="detail_picture">Product picture:</string>
+    <string name="detail_supplier_email">Supplier email:</string>
+
+    <string name="menu_delete">Delete</string>
+    <string name="app_title">Inventory Application</string>
+    <string name="picture_text">Select a photo</string>
+
+    <string name="list_title">Name</string>
+    <string name="list_quantity">Quantity: </string>
+    <string name="list_price">Price: </string>
+    <string name="list_sell">Sell</string>
+
+    <string name="add_button">+</string>
+    <string name="minus_button">-</string>
+    <string name="save_button">Save</string>
+    <string name="order_button">Order</string>
+
+</resources>
